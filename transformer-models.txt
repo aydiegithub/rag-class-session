@@ -1,0 +1,11 @@
+summarization
+sentiment-analysis
+text-generation
+question-answering
+fill-mask
+ner grouped_entities=True
+translation
+automatic-speech-recognition
+image-classification
+feature-extraction
+conversational

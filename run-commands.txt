@@ -1,0 +1,14 @@
+pip install uv
+
+uv init
+uv venv --python 3.12 .venv
+
+
+// Windows
+.venv\Scripts\activate
+
+// Dependencies
+uv add transformers colorama torch sentencepiece
+
+// pip
+pip install transformers colorama torch sentencepiece
